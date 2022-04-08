@@ -1,0 +1,112 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-size: 1.2rem;
+}
+#im {
+  background-image: url("fav.jpg");
+}
+
+.container {
+  background-color: beige;
+  width: 100%;
+  height: 800px;
+}
+li {
+  list-style-type: none;
+  float: left;
+  font-size: 20px;
+  margin: 10px;
+}
+.hp {
+  position: absolute;
+  top: 65px;
+  left: 600px;
+}
+.title1 {
+  position: absolute;
+  left: 400px;
+}
+img {
+  position: relative;
+  bottom: -95px;
+  right: 220px;
+  width: 300px;
+  height: 300px;
+  border-radius: 360px;
+}
+.aq {
+  position: relative;
+  top: -240px;
+  left: 120px;
+  margin: 10px;
+}
+.ft {
+  font-size: 80px;
+}
+.ft1 {
+  font-size: 45px;
+  font-weight: normal;
+}
+.b1 {
+  position: relative;
+  top: -250px;
+  left: 70px;
+  background-color: rgb(212, 101, 86);
+  width: 150px;
+  height: 150px;
+  border-radius: 180px;
+  text-align: center;
+  line-height: 150px;
+}
+.b2 {
+  position: relative;
+  top: -250px;
+  left: 90px;
+  background-color: rgb(102, 159, 197);
+  width: 150px;
+  height: 150px;
+  border-radius: 180px;
+  text-align: center;
+  line-height: 150px;
+}
+.b3 {
+  position: relative;
+  top: -250px;
+  left: 110px;
+  background-color: rgb(125, 182, 125);
+  width: 150px;
+  height: 150px;
+  border-radius: 180px;
+  text-align: center;
+  line-height: 150px;
+}
+#ulalau {
+  position: absolute;
+  left: 50px;
+}
+.container2 {
+  background-color: rgb(228, 88, 88);
+  width: 100%;
+  height: 100px;
+  position: relative;
+}
+#Ins{
+  list-style-image: url("Insta.png");
+  position: relative;
+  top: 20px;
+  left: 700px;
+
+}
+#Twi{
+  list-style-image: url("Twitter.png");
+  position: relative;
+  top: 20px;
+  left: 800px ;
+}
+#You{
+  list-style-image: url("Youtube.png");
+  position: relative;
+  top: 20px;
+  left: 900px;
+}
